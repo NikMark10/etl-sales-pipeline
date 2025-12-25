@@ -8,7 +8,6 @@ performs data cleaning and transformations, and loads it into a relational datab
 - Python
 - Pandas
 - SQL (PostgreSQL/MySQL)
-- Cron / Airflow
 - Git
 
 ## Pipeline Flow
@@ -30,4 +29,5 @@ python run_etl.py
 
 Project Structure
 - Check project-structure file
+
 
