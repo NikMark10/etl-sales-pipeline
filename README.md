@@ -28,8 +28,6 @@ performs data cleaning and transformations, and loads it into a relational datab
 pip install -r requirements.txt
 python run_etl.py
 
-## Project Structure
+Project Structure
 - Check project-structure file
 
-## Project Structure
-- Check project-structure file
