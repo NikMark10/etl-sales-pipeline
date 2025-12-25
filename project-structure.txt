@@ -1,0 +1,26 @@
+etl-sales-pipeline/
+│
+├── data/
+│   ├── raw/
+│   │   └── sales_raw.csv
+│   ├── processed/
+│   │   └── sales_clean.csv
+│
+├── etl/
+│   ├── extract.py
+│   ├── transform.py
+│   ├── load.py
+│
+├── sql/
+│   └── create_tables.sql
+│
+├── config/
+│   └── db_config.yaml
+│
+├── logs/
+│
+├── dags/                # (only when you add Airflow)
+│
+├── requirements.txt
+├── README.md
+└── run_etl.py
