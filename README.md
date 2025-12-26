@@ -14,7 +14,6 @@ performs data cleaning and transformations, and loads it into a relational datab
 1. Extract data from CSV
 2. Transform (deduplication, null handling, type casting, normalization)
 3. Load into database
-4. Scheduled execution
 
 ## Data Quality Checks
 - Duplicate order_id removal
@@ -29,5 +28,6 @@ python run_etl.py
 
 Project Structure
 - Check project-structure file
+
 
 
