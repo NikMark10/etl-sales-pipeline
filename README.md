@@ -25,9 +25,11 @@ performs data cleaning and transformations, and loads it into a relational datab
 ```bash
 pip install -r requirements.txt
 python run_etl.py
+```
 
-Project Structure
+## Project Structure
 - Check project-structure file
+
 
 
 
