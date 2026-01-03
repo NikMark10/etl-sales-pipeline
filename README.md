@@ -25,10 +25,15 @@ performs data cleaning and transformations, and loads it into a relational datab
 ```bash
 pip install -r requirements.txt
 python run_etl.py
+
+or
+
+Create windows scheduler and add the batch file from project to it
 ```
 
 ## Project Structure
 - Check project-structure file
+
 
 
 
