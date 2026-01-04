@@ -1,21 +1,26 @@
-2025-12-25 10:07:20,767 - INFO - ETL job started
-2025-12-25 10:07:20,791 - INFO - Extracted 1000 rows
-2025-12-25 10:07:20,807 - INFO - Transformed 1000 rows
-2025-12-25 10:07:21,471 - INFO - ETL job completed successfully}
-2025-12-25 10:30:22,918 - INFO - ETL job started
-2025-12-25 10:30:22,925 - INFO - Extracted 1000 rows
-2025-12-25 10:36:10,083 - INFO - ETL job started
-2025-12-25 10:36:10,090 - INFO - Extracted 1000 rows
-2025-12-25 10:36:10,102 - INFO - Transformed 900 rows
-2025-12-25 10:36:10,578 - INFO - ETL job completed successfully}
-2025-12-25 10:38:59,157 - INFO - ETL job started
-2025-12-25 10:38:59,161 - INFO - Extracted 1000 rows
-2025-12-25 10:38:59,166 - INFO - Transformed 900 rows
-2025-12-25 10:38:59,310 - INFO - ETL job completed successfully}
-2025-12-25 10:52:57,480 - INFO - ETL job started
-2025-12-25 10:52:57,491 - INFO - Extracted 1000 rows
-2025-12-25 10:52:57,500 - INFO - Transformed 900 rows
-2025-12-25 10:58:40,688 - INFO - ETL job started
-2025-12-25 10:58:40,692 - INFO - Extracted 1000 rows
-2025-12-25 10:58:40,697 - INFO - Transformed 900 rows
-2025-12-25 10:58:40,852 - INFO - ETL job completed successfully}
+2026-01-04 11:49:40,750 - INFO - ETL job started
+2026-01-04 11:49:40,754 - INFO - Extracted 1000 rows
+2026-01-04 11:49:40,759 - INFO - Transformed 900 rows
+2026-01-04 11:49:40,853 - INFO - ETL job completed successfully}
+ETL ran successfully at 2026-01-04 11:49:40.853910
+2026-01-04 11:49:42,651 - INFO - ETL job started
+2026-01-04 11:49:42,654 - INFO - Extracted 1000 rows
+2026-01-04 11:49:42,659 - INFO - Transformed 900 rows
+2026-01-04 11:49:42,745 - INFO - ETL job completed successfully}
+ETL ran successfully at 2026-01-04 11:49:42.745324
+ETL ran successfully at 2026-01-04 11:50:01.638481
+ETL ran successfully at 2026-01-04 11:51:02.782927
+ETL ran successfully at 2026-01-04 11:52:02.447588
+ETL ran successfully at 2026-01-04 11:53:02.108459
+ETL ran successfully at 2026-01-04 11:54:01.753012
+ETL ran successfully at 2026-01-04 11:55:02.402108
+ETL ran successfully at 2026-01-04 11:56:02.039713
+ETL ran successfully at 2026-01-04 11:57:01.656975
+ETL ran successfully at 2026-01-04 11:58:02.310555
+ETL ran successfully at 2026-01-04 11:59:01.548013
+ETL ran successfully at 2026-01-04 12:03:02.404467
+ETL ran successfully at 2026-01-04 12:04:01.657335
+ETL ran successfully at 2026-01-04 12:05:01.929854
+ETL ran successfully at 2026-01-04 12:06:01.657814
+ETL ran successfully at 2026-01-04 12:09:01.666837
+ETL ran successfully at 2026-01-04 12:10:01.912574

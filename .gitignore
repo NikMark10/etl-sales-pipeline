@@ -1,1 +1,9 @@
 .env
+
+# Logs
+logs/*.log
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
