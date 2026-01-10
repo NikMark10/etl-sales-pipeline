@@ -1,7 +1,14 @@
+import requests
 import pandas as pd
 
-file_path = r"C:\Users\inikh\Documents\myProjects\etl-sales-pipeline\data\raw\sales_raw.csv"
+def extract_sales_data():
+    url = "https://fakestoreapi.com/products"
+    response = requests.get(url)
 
-def extract_sales_data(file_path):
-    df = pd.read_csv(file_path)
+    if response.status_code != 200:
+        raise Exception("API call failed")
+    
+    data = response.json()
+    df = pd.DataFrame(data)
+
     return df

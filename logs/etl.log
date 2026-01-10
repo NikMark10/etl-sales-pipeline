@@ -24,3 +24,16 @@ ETL ran successfully at 2026-01-04 12:05:01.929854
 ETL ran successfully at 2026-01-04 12:06:01.657814
 ETL ran successfully at 2026-01-04 12:09:01.666837
 ETL ran successfully at 2026-01-04 12:10:01.912574
+2026-01-10 16:28:55,891 - INFO - ETL job started
+2026-01-10 16:28:56,489 - INFO - Extracted 20 json
+2026-01-10 16:28:56,508 - INFO - Transformed 20 json
+2026-01-10 17:31:47,636 - INFO - ETL job started
+2026-01-10 17:31:48,203 - INFO - Extracted 20 json
+2026-01-10 17:31:48,230 - INFO - Transformed 20 json
+2026-01-10 17:31:48,628 - INFO - ETL job completed successfully}
+ETL ran successfully at 2026-01-10 17:31:48.638555
+2026-01-10 17:38:06,184 - INFO - ETL job started
+2026-01-10 17:38:06,840 - INFO - Extracted 20 json
+2026-01-10 17:38:06,849 - INFO - Transformed 20 json
+2026-01-10 17:38:07,017 - INFO - ETL job completed successfully}
+ETL ran successfully at 2026-01-10 17:38:07.028596
